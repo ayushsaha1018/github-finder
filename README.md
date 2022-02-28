@@ -1,6 +1,6 @@
 # Github Finder App 
 
-## Website : 
+## Website : https://github-finder-ayush.vercel.app/
 
 A React app to search GitHub profiles and see profile details. This app uses Github Rest API to get the users profile.
 
